@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name A3000_Daughterboard)(type Legacy)(uri ${KIPRJMOD}/A3000_Daughterboard.lib)(options "")(descr ""))
+)
